@@ -1,7 +1,7 @@
 ## Installation:
 **Android:** Goto https://github.com/OvernightAU/ModdingUs/releases then scroll down till you find the Download APK.
 
-**PC (using Emulators):** Download Modding Us APK - https://github.com/OvernightAU/ModdingUs/releases
+**PC (using Emulators):** Download [Modding Us APK](https://github.com/OvernightAU/ModdingUs/releases)
 •Install an Android Emulator - install BlueStacks or LDPlayer on your PC,
 open BlueStacks or LDPlayer and complete the initial setup.
 (sign in with a Google account if required).
