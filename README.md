@@ -1,2 +1,2 @@
-## Installation
-**Android:** Goto  
+## Installation:
+**Android:** Goto https://github.com/OvernightAU/ModdingUs/releases
