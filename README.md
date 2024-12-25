@@ -10,4 +10,5 @@ open BlueStacks or LDPlayer and complete the initial setup.
 *IOS version is unavailable at the moment*
 
 ### Socials:
-!(disc)[https://github.com/Modding-Us/Modding-Us.github.io/blob/fa4e86d80fcb5bfc3c56d73b3e00c0d687ad2fe0/discord-logo-icon-editorial-free-vector%20(1).jpg]
+[Discord:](https://discord.gg/HKsywMzSw6)
+![Discord](https://github.com/Modding-Us/Modding-Us.github.io/blob/8bb8736ee54664fa5ea37f64845425423a82db64/Picsart_24-12-25_23-56-12-889.jpg)
