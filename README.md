@@ -7,7 +7,7 @@ open BlueStacks or LDPlayer and complete the initial setup.
 (sign in with a Google account if required).
 •Install Modding Us in the Emulator - Drag and drop the downloaded Modding Us APK file into the emulator window or use the "Install APK" option in the emulator.
 • Launch the Game - Open Modding Us from the emulator's app drawer.
-
+*IOS version is unavailable at the moment*
 
 ### Socials:
 [Discord:](https://discord.gg/HKsywMzSw6)
