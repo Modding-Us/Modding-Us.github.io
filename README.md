@@ -12,4 +12,4 @@ open BlueStacks or LDPlayer and complete the initial setup.
 ### Socials:
 [Discord](https://discord.gg/HKsywMzSw6)
 
-!(https://github.com/Modding-Us/Modding-Us.github.io/blob/8bb8736ee54664fa5ea37f64845425423a82db64/Picsart_24-12-25_23-56-12-889.jpg)
+![ ](https://github.com/Modding-Us/Modding-Us.github.io/blob/8bb8736ee54664fa5ea37f64845425423a82db64/Picsart_24-12-25_23-56-12-889.jpg)
