@@ -11,7 +11,7 @@ open BlueStacks or LDPlayer and complete the initial setup.
 after launching the PC version goto **Mods** then **featured** then download the **Controller Input** mod
 *NOTE: IOS version is unavailable at the moment*
 
-![alt_image](https://github.com/Modding-Us/Modding-Us.github.io/blob/1fe5874da3b7db967309e16ab5c13e6381b2a4be/discord-logo-icon-editorial-free-vector%20(1).jpg)
+!(alt_image)[https://github.com/Modding-Us/Modding-Us.github.io/blob/1fe5874da3b7db967309e16ab5c13e6381b2a4be/discord-logo-icon-editorial-free-vector%20(1).jpg]
 
 ### Socials:
 [Discord](https://discord.gg/HKsywMzSw6)
